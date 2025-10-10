@@ -35,22 +35,13 @@
   </li>
 </ul>
 
-<h2>📺 YouTube Highlights</h2>
-
-<ul>
-  <li><a href="https://www.youtube.com/watch?v=a83ASGn_V_s">🚀 Breaking into Tech from Scratch</a></li>
-  <li><a href="https://www.youtube.com/watch?v=uHy3oM7NnoU">🔍 Life as a Cybersecurity Analyst</a></li>
-  <li><a href="https://www.youtube.com/watch?v=N-L9hklSlNk">🛠️ Building a Keylogger in C#</a></li>
-  <li><a href="https://www.youtube.com/watch?v=OfvdQeh79s0">💣 Ransomware Demo (C#)</a></li>
-</ul>
-
 <h2>🌐 Connect with Me</h2>
 
 <p>
-  <a href="https://www.youtube.com/@blu-devhub"><img alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-  <a href="https://twitter.com/blu_devhub"><img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-  <a href="https://linkedin.com/in/blu-devhub"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  <a href="https://www.instagram.com/blu.devhub/"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <!--
+  linkedin, email(workwithme), workwithme.org.za
+  -->
+  <a href="www.linkedin.com/in/blu-dennis"><img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>  
 </p>
 
 <!--
