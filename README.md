@@ -41,7 +41,12 @@
   <!--
   linkedin, email(workwithme), workwithme.org.za
   -->
-  <a href="www.linkedin.com/in/blu-dennis"><img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>  
+  <li>
+    <ul>
+    <a href="www.linkedin.com/in/blu-dennis"><img alt="Linkedin" width="22px" src="https://workwithme.org.za/wp-content/uploads/2025/10/405571906_c42ace3f-5089-4205-8f13-0523d56cea18.svg"/>Linkedin</a>
+    </ul>
+  </li>
+    
 </p>
 
 <!--
