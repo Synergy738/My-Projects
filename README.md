@@ -9,10 +9,10 @@
 <h2>💻 Featured Projects</h2>
 
 <ul>
-  <li><b>Python</b>
+  <li><b>Python & SQL projects with Harvard University</b>
     <ul>
-      <li><a href="https://github.com/blu-devhub/Package-Delivery-Pathfinding-Algorithm">📦 Package Delivery Pathfinding Algorithm</a> – DS&A demo with real-world logistics logic</li>
-      <li><a href="https://github.com/blu-devhub/AI-Resume-Ranker">🧠 AI Resume Ranker</a> – NLP-powered resume scoring tool</li>
+      <li><a href="https://github.com/Synergy738/Projects/tree/f85c61394b7581a6d64c8cacd3875b3f12c31221/Python%20Projects">Python</a> – multiple small applications implementing the essentials of python</li>
+      <li><a href="https://github.com/Synergy738/Projects/tree/f85c61394b7581a6d64c8cacd3875b3f12c31221/SQL%20Projects">SQL</a> – contains Harvard University's Introduction to Databases with SQL</li>
     </ul>
   </li>
   <li><b>C# (.NET)</b>
@@ -28,7 +28,7 @@
     </ul>
   </li>
   <li><b>WordPress</b>
-    <ul>
+    <ul>z
       <li><a href="https://github.com/blu-devhub/Minimalist-Portfolio-Theme">🎨 Minimalist Portfolio Theme</a> – Custom WP theme for creatives</li>
       <li><a href="https://github.com/blu-devhub/Client-Site-Automation">⚙️ Client Site Automation</a> – WP plugin for dynamic content updates</li>
     </ul>
