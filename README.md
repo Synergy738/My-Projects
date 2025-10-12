@@ -1,6 +1,6 @@
 <h1>Hey, I'm Blú 👋<br/>
 <a href="https://github.com/blu-devhub">Fullstack Developer</a>, 
-<a href="https://www.linkedin.com/in/blu-devhub/">Tech Optimizer</a>, 
+<a href="www.linkedin.com/in/blu-dennis">Tech Enthusiast</a>, 
 <a href="https://www.youtube.com/@blu-devhub">Creative Technologist</a>
 </h1>
 
@@ -17,7 +17,7 @@
   </li>
   <li><b>C# (.NET)</b>
     <ul>
-      <li><a href="https://github.com/blu-devhub/EncrypterPOC">🔐 Ransomware POC (Encrypter)</a> – File encryption demo</li>
+      <li><a href="https://github.com/Synergy738/Projects/tree/f85c61394b7581a6d64c8cacd3875b3f12c31221/C%23%20Projects/TitanicSyndrome_ver4">The Titanic Syndrome</a> – a C# application that features an offline login system, a database to store user's information and a test that user's can take for themselves to deteermine if they are suffering from the titanic syndrome</li>
       <li><a href="https://github.com/blu-devhub/Key-Logger-With-Email">📩 Keylogger with Email Alerts</a> – Input tracking with SMTP integration</li>
     </ul>
   </li>
@@ -27,10 +27,14 @@
       <li><a href="https://github.com/blu-devhub/Customer-Insights-Dashboard">📈 Customer Insights Dashboard</a> – Data visualization with SQL + PowerBI</li>
     </ul>
   </li>
-  <li><b>WordPress</b>
-    <ul>z
-      <li><a href="https://github.com/blu-devhub/Minimalist-Portfolio-Theme">🎨 Minimalist Portfolio Theme</a> – Custom WP theme for creatives</li>
-      <li><a href="https://github.com/blu-devhub/Client-Site-Automation">⚙️ Client Site Automation</a> – WP plugin for dynamic content updates</li>
+  <li><b>WordPress websites</b>
+    <ul>
+      <li><a href="https://opianentrepreneur.com/"> Opian Success Systems</a> A minimilistic brochure website built with wordpress and its elementor plugin</li>
+    </ul>
+  </li>
+  <li><b>AI websites</b>
+    <ul>
+      <li><a href="https://blu-digital-canvas.lovable.app/">Minimalist Portfolio Theme</a> – Custom portfolio website built using Lovable AI in Typescript</li>
     </ul>
   </li>
 </ul>
