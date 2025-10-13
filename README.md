@@ -1,7 +1,5 @@
 <h1>Hey, I'm Blú 👋<br/>
-<a href="https://github.com/blu-devhub">Fullstack Developer</a>, 
-<a href="www.linkedin.com/in/blu-dennis">Tech Enthusiast</a>, 
-<a href="https://www.youtube.com/@blu-devhub">Creative Technologist</a>
+<a href="https://github.com/blu-dennis">A Fullstack Developer</a>
 </h1>
 
 <p>I build scalable, user-friendly solutions that blend technical depth with minimalist design. From backend automation to sleek frontends, I love making complex systems accessible to everyone.</p>
