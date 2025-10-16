@@ -16,9 +16,6 @@
   <li><b>C# (.NET)</b>
     <ul>
       <li><a href="https://github.com/Synergy738/Projects/tree/f85c61394b7581a6d64c8cacd3875b3f12c31221/C%23%20Projects/TitanicSyndrome_ver4">The Titanic Syndrome</a> – a C# application that features an offline login system, a database to store user's information and a test that user's can take for themselves to deteermine if they are suffering from the titanic syndrome</li>
-      <li><a href="https://github.com/blu-devhub/Key-Logger-With-Email">📩 Keylogger with Email Alerts</a> – Input tracking with SMTP integration</li>
-    </ul>
-  </li>
   <li><b>SQL</b>
     <ul>
       <li><a href="https://github.com/blu-devhub/SQL-Inventory-Manager">📊 Inventory Manager</a> – SQL-based stock tracking system</li>
