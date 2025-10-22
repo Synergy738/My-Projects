@@ -16,12 +16,7 @@
   <li><b>C# (.NET)</b>
     <ul>
       <li><a href="https://github.com/Synergy738/Projects/tree/f85c61394b7581a6d64c8cacd3875b3f12c31221/C%23%20Projects/TitanicSyndrome_ver4">The Titanic Syndrome</a> – a C# application that features an offline login system, a database to store user's information and a test that user's can take for themselves to deteermine if they are suffering from the titanic syndrome</li>
-  <li><b>SQL</b>
-    <ul>
-      <li><a href="https://github.com/blu-devhub/SQL-Inventory-Manager">📊 Inventory Manager</a> – SQL-based stock tracking system</li>
-      <li><a href="https://github.com/blu-devhub/Customer-Insights-Dashboard">📈 Customer Insights Dashboard</a> – Data visualization with SQL + PowerBI</li>
     </ul>
-  </li>
   <li><b>WordPress websites</b>
     <ul>
       <li><a href="https://opianentrepreneur.com/"> Opian Success Systems</a> A minimilistic brochure website built with wordpress and its elementor plugin</li>
